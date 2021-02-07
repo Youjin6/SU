@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/bc1.iml" filepath="$PROJECT_DIR$/bc1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bc2/bc2.iml" filepath="$PROJECT_DIR$/../bc2/bc2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../zuo_algo/zuo_algo.iml" filepath="$PROJECT_DIR$/../../zuo_algo/zuo_algo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../zuo_demo/zuo_demo.iml" filepath="$PROJECT_DIR$/../../zuo_demo/zuo_demo.iml" />
     </modules>
   </component>
 </project>

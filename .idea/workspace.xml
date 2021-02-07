@@ -1,20 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="205d096d-4e0f-4800-b057-36e2ec7dda85" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/SU.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bc2/src/_md/wk1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bc2/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bc2/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="6f5faddb-bcfb-477c-83c6-d9c861ccb12d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zuo_demo/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../zuo_demo/.idea/modules.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1oAh5TyyaHXL604kjBGupT6yoFg" />
+  <component name="ProjectId" id="1oAjsoWhbpHRvxVKK21Wh85yXUY" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -23,19 +32,50 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bc2/src/code" />
     <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\_Project\SU_repo\bc2\src\code" />
+      <recent name="E:\_Project\SU_repo\bc2\src\project" />
+      <recent name="E:\_Project\SU_repo\bc2\src\_review" />
+      <recent name="E:\_Project\SU_repo\bc2\src" />
+      <recent name="E:\_Project\SU_repo\bc2\src\ICE" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="quiz" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="205d096d-4e0f-4800-b057-36e2ec7dda85" name="Default Changelist" comment="" />
-      <created>1612735120236</created>
+      <changelist id="6f5faddb-bcfb-477c-83c6-d9c861ccb12d" name="Default Changelist" comment="" />
+      <created>1612736500392</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1612735120236</updated>
-      <workItem from="1612735121360" duration="110000" />
+      <updated>1612736500392</updated>
+      <workItem from="1612736502187" duration="6000" />
+      <workItem from="1612736541435" duration="135000" />
+      <workItem from="1612736700333" duration="472000" />
+      <workItem from="1612737200596" duration="1474000" />
+      <workItem from="1612738937936" duration="645000" />
     </task>
     <servers />
   </component>
@@ -52,5 +92,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
