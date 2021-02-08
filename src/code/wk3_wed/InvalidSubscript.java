@@ -1,3 +1,5 @@
+package code.wk3_wed;
+
 /**
    This program uses an invalid subscript with an array.
 */

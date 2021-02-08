@@ -1,3 +1,5 @@
+package code.wk3_fri;
+
 /**
    This program demonstrates passing individual array
    elements as arguments to a method.

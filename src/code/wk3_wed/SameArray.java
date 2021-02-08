@@ -1,3 +1,5 @@
+package code.wk3_wed;
+
 /**
    This program demonstrates that two variables can
    reference the same array.

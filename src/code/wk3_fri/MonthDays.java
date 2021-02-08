@@ -1,3 +1,5 @@
+package code.wk3_fri;
+
 /**
    This program demonstrates an array of String objects.
 */

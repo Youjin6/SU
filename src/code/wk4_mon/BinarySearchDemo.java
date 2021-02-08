@@ -1,3 +1,5 @@
+package code.wk4_mon;
+
 import java.util.Scanner;
 
 /**

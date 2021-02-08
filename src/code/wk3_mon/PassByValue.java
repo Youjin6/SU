@@ -1,3 +1,5 @@
+package code.wk3_mon;
+
 /**
    This program demonstrates that only a copy of an argument
    is passed into a method.

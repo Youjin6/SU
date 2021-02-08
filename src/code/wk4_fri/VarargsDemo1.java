@@ -1,3 +1,5 @@
+package code.wk4_fri;
+
 /**
    This program demonstrates a method that accepts
    a variable number of arguments (varargs).

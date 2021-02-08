@@ -1,3 +1,5 @@
+package code.wk3_mon;
+
 /**
    This program demonstrates a method with a parameter.
 */

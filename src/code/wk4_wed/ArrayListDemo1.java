@@ -1,3 +1,5 @@
+package code.wk4_wed;
+
 import java.util.ArrayList; // Needed for ArrayList class
 
 /**

@@ -1,3 +1,5 @@
+package code.wk3_wed;
+
 /**
    This program shows an array being initialized.
 */

@@ -1,3 +1,5 @@
+package code.wk3_mon;
+
 /**
    This program demonstrates hierarchical method calls.
 */

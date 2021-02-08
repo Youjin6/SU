@@ -1,3 +1,5 @@
+package code.wk4_fri;
+
 /**
    This program displays the arguments passed to
    it from the operating system command line.

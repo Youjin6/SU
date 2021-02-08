@@ -1,3 +1,5 @@
+package code.wk4_fri;
+
 import java.util.Scanner;
 
 /**

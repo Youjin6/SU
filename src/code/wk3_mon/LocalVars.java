@@ -1,3 +1,5 @@
+package code.wk3_mon;
+
 /**
    This program demonstrates that two methods may have
    local variables with the same name.

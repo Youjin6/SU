@@ -1,3 +1,5 @@
+package code.wk3_mon;
+
 /**
    This program defines and calls a simple method.
 */

@@ -1,3 +1,5 @@
+package code.wk3_mon;
+
 import java.util.Scanner;        // For the Scanner class
 import java.io.*;                // For file I/O classes
 

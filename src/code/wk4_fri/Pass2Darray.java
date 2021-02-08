@@ -1,3 +1,5 @@
+package code.wk4_fri;
+
 /**
    This program demonstrates methods that accept
    a two-dimensional array as an argument.

@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f5faddb-bcfb-477c-83c6-d9c861ccb12d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../zuo_demo/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../zuo_demo/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/code/wk3_fri/MonthDays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/wk3_fri/MonthDays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/code/wk3_fri/PassArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/wk3_fri/PassArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/code/wk3_fri/PassElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/wk3_fri/PassElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/code/wk3_fri/ReturnArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/wk3_fri/ReturnArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/code/wk3_fri/Sales.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/code/wk3_fri/Sales.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zuo_algo/algo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../zuo_algo/zuo_algo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../zuo_algo/src/test.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,7 +23,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../zuo_demo" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1oAjsoWhbpHRvxVKK21Wh85yXUY" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -28,6 +34,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -47,6 +54,9 @@
       <recent name="E:\_Project\SU_repo\bc2\src\_review" />
       <recent name="E:\_Project\SU_repo\bc2\src" />
       <recent name="E:\_Project\SU_repo\bc2\src\ICE" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\_Project\SU_repo\bc1\src\code" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="quiz" />
@@ -98,5 +108,8 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

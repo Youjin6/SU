@@ -1,3 +1,5 @@
+package code.wk4_mon;
+
 /**
    This program sequentially searches an
    int array for a specified value.

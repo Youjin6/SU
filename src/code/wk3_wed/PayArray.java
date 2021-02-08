@@ -1,3 +1,5 @@
+package code.wk3_wed;
+
 import java.util.Scanner; // Needed for Scanner class
 
 /**

@@ -1,3 +1,5 @@
+package code.wk3_fri;
+
 /**
    This program demonstrates how a reference to an
    array can be returned from a method.
